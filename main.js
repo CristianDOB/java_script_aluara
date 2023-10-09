@@ -46,5 +46,5 @@ function mostrarItens() {
         console.log("Fui clicado")
       })
     })
-
+// Tenho que voltar algumas aulas pq perdi uma parte da implementação no processo de ajustar o GIT.
 }
